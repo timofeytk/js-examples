@@ -1,51 +1,3 @@
-@font-face {
-  font-family: 'Museo Sans Cyrl';
-  src: url(../fonts/MuseoSansCyrl-300.eot);
-  src: url(../fonts/MuseoSansCyrl-300-1.eot) format("embedded-opentype"), url(../fonts/MuseoSansCyrl-300.woff2) format("woff2"), url(../fonts/MuseoSansCyrl-300.woff) format("woff"), url(../fonts/MuseoSansCyrl-300.bin) format("truetype"), url(../fonts/MuseoSansCyrl-300.svg) format("svg");
-  font-weight: 300;
-  font-style: normal; }
-@font-face {
-  font-family: 'Museo Sans Cyrl';
-  src: url(../fonts/MuseoSansCyrl-900.eot);
-  src: url(../fonts/MuseoSansCyrl-900-1.eot) format("embedded-opentype"), url(../fonts/MuseoSansCyrl-900.woff2) format("woff2"), url(../fonts/MuseoSansCyrl-900.woff) format("woff"), url(../fonts/MuseoSansCyrl-900.bin) format("truetype"), url(../fonts/MuseoSansCyrl-900.svg) format("svg");
-  font-weight: bold;
-  font-style: normal; }
-@font-face {
-  font-family: 'Museo Sans Cyrl';
-  src: url(../fonts/MuseoSansCyrl-100.eot);
-  src: url(../fonts/MuseoSansCyrl-100-1.eot) format("embedded-opentype"), url(../fonts/MuseoSansCyrl-100.woff2) format("woff2"), url(../fonts/MuseoSansCyrl-100.woff) format("woff"), url(../fonts/MuseoSansCyrl-100.bin) format("truetype"), url(../fonts/MuseoSansCyrl-100.svg) format("svg");
-  font-weight: 300;
-  font-style: normal; }
-@font-face {
-  font-family: 'Museo Sans Cyrl';
-  src: url(../fonts/MuseoSansCyrl-500.eot);
-  src: url(../fonts/MuseoSansCyrl-500-1.eot) format("embedded-opentype"), url(../fonts/MuseoSansCyrl-500.woff2) format("woff2"), url(../fonts/MuseoSansCyrl-500.woff) format("woff"), url(../fonts/MuseoSansCyrl-500.bin) format("truetype"), url(../fonts/MuseoSansCyrl-500.svg) format("svg");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'Museo Cyrl';
-  src: url(../fonts/MuseoCyrl-900.eot);
-  src: url(../fonts/MuseoCyrl-900-1.eot) format("embedded-opentype"), url(../fonts/MuseoCyrl-900.woff2) format("woff2"), url(../fonts/MuseoCyrl-900.woff) format("woff"), url(../fonts/MuseoCyrl-900.bin) format("truetype"), url(../fonts/MuseoCyrl-900.svg) format("svg");
-  font-weight: bold;
-  font-style: normal; }
-@font-face {
-  font-family: 'Museo Cyrl';
-  src: url(../fonts/MuseoCyrl-700.eot);
-  src: url(../fonts/MuseoCyrl-700-1.eot) format("embedded-opentype"), url(../fonts/MuseoCyrl-700.woff2) format("woff2"), url(../fonts/MuseoCyrl-700.woff) format("woff"), url(../fonts/MuseoCyrl-700.bin) format("truetype"), url(../fonts/MuseoCyrl-700.svg) format("svg");
-  font-weight: 600;
-  font-style: normal; }
-@font-face {
-  font-family: 'Museo Cyrl';
-  src: url(../fonts/MuseoCyrl-500.eot);
-  src: url(../fonts/MuseoCyrl-500-1.eot) format("embedded-opentype"), url(../fonts/MuseoCyrl-500.woff2) format("woff2"), url(../fonts/MuseoCyrl-500.woff) format("woff"), url(../fonts/MuseoCyrl-500.bin) format("truetype"), url(../fonts/MuseoCyrl-500.svg) format("svg");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'Museo Cyrl';
-  src: url(../fonts/MuseoCyrl-100.eot);
-  src: url(../fonts/MuseoCyrl-100-1.eot) format("embedded-opentype"), url(../fonts/MuseoCyrl-100.woff2) format("woff2"), url(../fonts/MuseoCyrl-100.woff) format("woff"), url(../fonts/MuseoCyrl-100.bin) format("truetype"), url(../fonts/MuseoCyrl-100.svg) format("svg");
-  font-weight: 200;
-  font-style: normal; }
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%; }
@@ -453,7 +405,6 @@ html {
   font-size: 10px; }
 
 body {
-  font-family: 'Museo Sans Cyrl', sans-serif;
   line-height: 1.3;
   font-weight: normal;
   overflow-x: hidden;
@@ -582,7 +533,6 @@ input:disabled {
 .btn-text {
   font-size: .87vw;
   color: #000;
-  font-family: "Museo Cyrl";
   font-weight: 900;
   text-transform: uppercase; }
 
@@ -628,7 +578,6 @@ input:disabled {
 
 .link-underline {
   color: #ffd800;
-  font-family: "Museo Cyrl";
   font-size: 1.2vw;
   font-weight: 400;
   line-height: 1.3;
@@ -857,7 +806,6 @@ input:disabled {
 
 .number {
   color: #ffd800;
-  font-family: "Museo Cyrl", sans-serif;
   font-size: 1.3vw;
   font-weight: 700;
   -webkit-transition: all .4s;
@@ -962,7 +910,6 @@ input:disabled {
   align-self: center; }
 
 .main__advas-title {
-  font-family: "Museo Cyrl", sans-serif;
   font-weight: 900;
   font-size: 1.1vw; }
 
@@ -1155,7 +1102,6 @@ input:disabled {
 
 .progress__title {
   color: #999;
-  font-family: "Museo Cyrl", sans-serif;
   font-size: .96vw;
   font-weight: 500; }
 
@@ -1172,7 +1118,6 @@ input:disabled {
 
 .descr-test {
   color: #404040;
-  font-family: "Museo Sans Cyrl", sans-serif;
   font-size: 1.4vw;
   font-weight: 700;
   padding-left: 2.5rem;
@@ -1191,7 +1136,6 @@ input:disabled {
 
 .test__block__title {
   color: #404040;
-  font-family: "Museo Cyrl", sans-serif;
   font-size: 1.1vw;
   font-weight: 700;
   text-transform: uppercase;
@@ -1755,7 +1699,6 @@ input:disabled {
 
 .file-btn {
   color: #010101;
-  font-family: "Museo Cyrl", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   font-size: .86vw;
@@ -1829,7 +1772,6 @@ input:disabled {
 
 .t-title {
   color: #404040;
-  font-family: "Museo Cyrl", sans-serif;
   font-size: .79vw;
   font-weight: 400;
   margin-bottom: 1vw;
@@ -1975,7 +1917,6 @@ input:disabled {
 
 .t-desc {
   color: #999;
-  font-family: "Museo Cyrl", sans-serif;
   font-size: 2vw;
   font-weight: 300; }
 
