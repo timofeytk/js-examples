@@ -66,7 +66,7 @@
                                 </div>
                                 <div class="title-margin-sm">
                                     <h3 class="descr-test">
-                                        Где Вы планируете делать ремонт?
+                                       Lorem ipsum.
                                     </h3>
                                 </div>
                                 <div class="test-slider-qw-1">
@@ -76,12 +76,12 @@
       style="background:url(img/img_01.jpg) no-repeat center;background-size:cover">
 </span>
                                         <span class="checkbox-wrap test-question__checkbox">
-<input type="radio" id="qw1-1" class="radio-btn checkbox-inp" value="Новостройка" name="qw1">
+<input type="radio" id="qw1-1" class="radio-btn checkbox-inp" value="ipsum1" name="qw1">
 <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Новостройка
+Lorem ipsum1
 </span>
 </span>
                                     </label>
@@ -91,12 +91,12 @@
       style="background:url(img/img_02.jpg) no-repeat center;background-size:cover">
 </span>
                                         <span class="checkbox-wrap test-question__checkbox">
-<input type="radio" id="qw1-2" class="radio-btn checkbox-inp" value="Вторичка" name="qw1">
+<input type="radio" id="qw1-2" class="radio-btn checkbox-inp" value="ipsum2" name="qw1">
 <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Вторичка
+Lorem ipsum3
 </span>
 </span>
                                     </label>
@@ -106,12 +106,12 @@
       style="background:url(img/img_03.jpg) no-repeat center;background-size:cover">
 </span>
                                         <span class="checkbox-wrap test-question__checkbox">
-<input type="radio" id="qw1-3" class="radio-btn checkbox-inp" value="Частный дом" name="qw1">
+<input type="radio" id="qw1-3" class="radio-btn checkbox-inp" value="ipsum3" name="qw1">
 <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Частный дом
+Lorem ipsum2
 </span>
 </span>
                                     </label>
@@ -124,9 +124,9 @@
                                 </div>
                                 <div class="title-margin-sm">
                                     <h3 class="descr-test">
-                                        Укажите помещения в которых нужен ремонт?
+                                        Lorem ipsum dolor sit.
                                         <div class="progress__title sub-desc">
-                                            (можно выбрать несколько вариантов)
+                                            (Lorem ipsum dolor sit amet, consectetur adipisicing elit.)
                                         </div>
                                     </h3>
                                 </div>
@@ -135,15 +135,15 @@
                                     <label for="qw2-1" class="label-qw1 label-qw2"
                                            style="background:url(img/img_04.jpg) no-repeat center bottom;background-size:100% auto">
 <span class="checkbox-wrap test-question__checkbox">
-<input type="checkbox" id="qw2-1" class="radio-btn checkbox-inp" value="Вся квартира / дом" name="qw2">
+<input type="checkbox" id="qw2-1" class="radio-btn checkbox-inp" value="ipsum2" name="qw2">
 <span class="before-bg"></span>
 <span class="radio-label">
 <span class="checkbox-psevdo">
 <span class="checkbox-psevdo-active">
-<img src="img/img_01.jpg" alt="">
+<img src="img/check.png" alt="">
 </span>
 </span>
-Вся квартира / дом
+Lorem ipsum1
 </span>
 </span>
                                     </label>
@@ -151,31 +151,31 @@
                                     <label for="qw2-2" class="label-qw1 label-qw2"
                                            style="background:url(img/img_05.jpg) no-repeat center bottom;background-size:100% auto">
 <span class="checkbox-wrap test-question__checkbox">
-<input type="checkbox" id="qw2-2" class="radio-btn checkbox-inp" value="Комнаты / зал" name="qw2">
+<input type="checkbox" id="qw2-2" class="radio-btn checkbox-inp" value="ipsum3" name="qw2">
 <span class="before-bg"></span>
 <span class="radio-label">
 <span class="checkbox-psevdo">
 <span class="checkbox-psevdo-active">
-<img src="img/img_01.jpg" alt="">
+<img src="img/check.png" alt="">
 </span>
 </span>
-Комнаты / зал
+Lorem ipsum2
 </span>
 </span>
                                     </label>
                                     <!-- 3 -->
                                     <label for="qw2-3" class="label-qw1 label-qw2"
-                                           style="background:url(img/img_06.jpg) no-repeat left 2vw bottom;background-size:100% auto">
+                                           style="background:url(img/img_06.jpg) no-repeat center bottom;background-size:100% auto">
 <span class="checkbox-wrap test-question__checkbox">
-<input type="checkbox" id="qw2-3" class="radio-btn checkbox-inp" value="Ванная / туалет" name="qw2">
+<input type="checkbox" id="qw2-3" class="radio-btn checkbox-inp" value="ipsum3" name="qw2">
 <span class="before-bg"></span>
 <span class="radio-label">
 <span class="checkbox-psevdo">
 <span class="checkbox-psevdo-active">
-<img src="img/img_02.jpg" alt="">
+<img src="img/check.png" alt="">
 </span>
 </span>
-Ванная / туалет
+Lorem ipsum3
 </span>
 </span>
                                     </label>
@@ -183,15 +183,15 @@
                                     <label for="qw2-4" class="label-qw1 label-qw2"
                                            style="background:url(img/img_07.jpg) no-repeat center bottom;background-size:100% auto">
 <span class="checkbox-wrap test-question__checkbox">
-<input type="checkbox" id="qw2-4" class="radio-btn checkbox-inp" value="Кухня" name="qw2">
+<input type="checkbox" id="qw2-4" class="radio-btn checkbox-inp" value="ipsum4" name="qw2">
 <span class="before-bg"></span>
 <span class="radio-label">
 <span class="checkbox-psevdo">
 <span class="checkbox-psevdo-active">
-<img src="img/img_03.jpg" alt="">
+<img src="img/check.png" alt="">
 </span>
 </span>
-Кухня
+Lorem ipsum4
 </span>
 </span>
                                     </label>
@@ -199,15 +199,15 @@
                                     <label for="qw2-5" class="label-qw1 label-qw2"
                                            style="background:url(img/img_07.jpg) no-repeat center bottom;background-size:100% auto">
 <span class="checkbox-wrap test-question__checkbox">
-<input type="checkbox" id="qw2-5" class="radio-btn checkbox-inp" value="Коридор" name="qw2">
+<input type="checkbox" id="qw2-5" class="radio-btn checkbox-inp" value="ipsum5" name="qw2">
 <span class="before-bg"></span>
 <span class="radio-label">
 <span class="checkbox-psevdo">
 <span class="checkbox-psevdo-active">
-<img src="img/img_01.jpg" alt="">
+<img src="img/check.png" alt="">
 </span>
 </span>
-Коридор
+Lorem ipsum5
 </span>
 </span>
                                     </label>
@@ -220,10 +220,10 @@
 <span class="radio-label">
 <span class="checkbox-psevdo">
 <span class="checkbox-psevdo-active">
-<img src="img/img_01.jpg" alt="">
+<img src="img/check.png" alt="">
 </span>
 </span>
-Другое
+Lorem ipsum6
 </span>
 </span>
                                     </label>
@@ -238,55 +238,54 @@
                                     <div class="qw-3-item">
                                         <div class="title-margin-sm">
                                             <h3 class="descr-test">
-                                                Введите площадь помещения </h3>
+                                                Lorem ipsum </h3>
                                         </div>
                                         <div class="qw-3-item-block">
                                             <div class="qw3-text qw-i-jq">
-                                                <span class="qw3-text-title">Вся квартира / дом</span>
+                                                <span class="qw3-text-title">ipsum1</span>
                                                 <input type="number" name="qw3-1" class="input inp-qw-3"
                                                        placeholder="123">
-                                                <span>м2</span>
+
                                             </div>
                                             <div class="qw3-text qw-i-jq">
-                                                <span class="qw3-text-title">Комнаты / зал</span>
+                                                <span class="qw3-text-title">ipsum2</span>
                                                 <input type="number" name="qw3-2" class="input inp-qw-3"
                                                        placeholder="123">
-                                                <span>м2</span>
+
                                             </div>
                                             <div class="qw3-text qw-i-jq">
-                                                <span class="qw3-text-title">Ванная / туалет</span>
+                                                <span class="qw3-text-title">ipsum3</span>
                                                 <input type="number" name="qw3-3" class="input inp-qw-3"
                                                        placeholder="123">
-                                                <span>м2</span>
+
                                             </div>
                                             <div class="qw3-text qw-i-jq">
-                                                <span class="qw3-text-title">Кухня</span>
+                                                <span class="qw3-text-title">ipsum4</span>
                                                 <input type="number" name="qw3-4" class="input inp-qw-3"
                                                        placeholder="123">
-                                                <span>м2</span>
+
                                             </div>
                                             <div class="qw3-text qw-i-jq">
-                                                <span class="qw3-text-title">Коридор</span>
+                                                <span class="qw3-text-title">ipsum5</span>
                                                 <input type="number" name="qw3-5" class="input inp-qw-3"
                                                        placeholder="123">
                                                 <span>м2</span>
                                             </div>
                                             <div class="qw3-text qw-i-jq">
-                                                <span class="qw3-text-title">Другое</span>
+                                                <span class="qw3-text-title">ipsum6</span>
                                                 <input type="number" name="qw3-6" class="input inp-qw-3"
                                                        placeholder="123">
-                                                <span>м2</span>
+
                                             </div>
                                         </div>
                                     </div>
                                     <div class="qw-3-circle">
-                                        ИЛИ
+                                        OR
                                     </div>
                                     <div class="qw-3-item">
                                         <div class="title-margin-sm">
                                             <h3 class="descr-test">
-                                                Прикрепите планировку
-                                                Вашей квартиры </h3>
+                                                Lorem ipsum dolor sit amet. </h3>
                                         </div>
                                         <img src="img/img_01.jpg" alt=""
                                              class="plan">
@@ -297,7 +296,7 @@
                                                 <div class="file-link" id="file-name">
                                                     Выберите файл
                                                 </div>
-                                                <label for="file" class="file-btn">ВЫБРАТЬ</label>
+                                                <label for="file" class="file-btn">SEND</label>
                                             </div>
                                         </div>
                                     </div>
@@ -310,7 +309,7 @@
                                 </div>
                                 <div class="title-margin-sm">
                                     <h3 class="descr-test">
-                                        Какой тип ремонта Вам нужен?
+                                        Lorem ipsum dolor sit.
                                     </h3>
                                 </div>
                                 <div class="test-slider-qw-1">
@@ -320,29 +319,29 @@
        style="background:url(img/img_09.jpg) no-repeat center;background-size:cover">
 </label>
 <span class="qw-t-wrap"><span class="qw-t">
-<img src="img/img_01.jpg" alt="">
+<img src="img/i.png" alt="">
 <span class="tooltip-test">
 <span class="t-title">
 </span>
 <span class="t-title">
 <span>
-Что включает в себя <br>
-косметический ремонт:	</span>
+Lorem ipsum dolor. <br>
+Lorem ipsum dolor.	</span>
 </span>
 <ul class="list-t">
-<li> Частичная либо полная замена или обновление финишных материалов стен, пола, потолков без их предварительной подготовки, не затрагивая инженерных коммуникаций и (не меняя конструктивных решений помещения).</li>
+<li> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque est illum minima molestias nostrum reprehenderit, veritatis. Cumque nostrum quaerat voluptas?</li>
 
 </ul>
 </span>
 </span>
 </span>
 <label for="qw4-1" class="checkbox-wrap test-question__checkbox">
-<input type="radio" id="qw4-1" class="radio-btn checkbox-inp" value="Косметический" name="qw4">
+<input type="radio" id="qw4-1" class="radio-btn checkbox-inp" value="lorem1" name="qw4">
 <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Косметический
+lorem1
 </span>
 </label>
 </span>
@@ -352,28 +351,28 @@
        style="background:url(img/img_10.jpg) no-repeat center;background-size:cover">
 </label>
 <span class="qw-t-wrap"><span class="qw-t">
-<img src="img/img_01.jpg" alt="">
+<img src="img/i.png" alt="">
 <span class="tooltip-test">
 <span class="t-title">
 </span>
 <span class="t-title">
 <span>
-Что включает в себя<br>	капитальный ремонт:
+Lorem ipsum dolor.<br>	Lorem ipsum.
 </span>
 </span>
 <ul class="list-t">
-<li> Полный цикл ремонтно-отделочных работ (от демонтажа до чистовой навески приборов), включая замену либо ремонт инженерных коммуникаций, с возможной перепланировкой помещений.</li>
+<li> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci asperiores aspernatur ea fuga id minus nihil provident quisquam tempora voluptas.</li>
 </ul>
 </span>
 </span>
 </span>
 <label for="qw4-2" class="checkbox-wrap test-question__checkbox">
-<input type="radio" id="qw4-2" class="radio-btn checkbox-inp" value="Капитальный" name="qw4">
+<input type="radio" id="qw4-2" class="radio-btn checkbox-inp" value="lorem2" name="qw4">
 <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Капитальный
+lorem2
 </span>
 </label>
 </span>
@@ -383,30 +382,30 @@
        style="background:url(img/img_11.jpg) no-repeat center;background-size:cover">
 </label>
 <span class="qw-t-wrap"><span class="qw-t">
-<img src="img/img_01.jpg" alt="">
+<img src="img/i.png" alt="">
 <span class="tooltip-test">
 <span class="t-title">
 </span>
 <span class="t-title">
 <span>
-Что включает в себя <br>	дизайнерский ремонт:
+Lorem ipsum. <br>	Lorem ipsum dolor.
 </span>
 </span>
 <ul class="list-t">
 
-<li> Полный цикл ремонтно-отделочных работ (от демонтажа до чистовой навески приборов), включая полную замену инженерных коммуникаций, с перепланировкой помещений и набором сложных конструктивных элементов, с использованием эксклюзивных отделочных материалов.</li>
+<li> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, corporis, cupiditate! Ea modi odio velit.</li>
 
 </ul>
 </span>
 </span>
 </span>
 <label for="qw4-3" class="checkbox-wrap test-question__checkbox">
-<input type="radio" id="qw4-3" class="radio-btn checkbox-inp" value="Дизайнерский" name="qw4">
+<input type="radio" id="qw4-3" class="radio-btn checkbox-inp" value="lorem3" name="qw4">
 <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Дизайнерский
+lorem3
 </span>
 </label>
 </span>
@@ -419,7 +418,7 @@
                                 </div>
                                 <div class="title-margin-sm">
                                     <h3 class="descr-test">
-                                        У вас уже есть дизайн-проект?
+                                       Lorem ipsum dolor sit.
                                     </h3>
                                 </div>
                                 <div class="test-slider-qw-1 test-slider-qw-5">
@@ -429,32 +428,32 @@
                                     <div class="test-slider-qw-5-list">
                                         <label for="qw5-1" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw5-1" class="radio-btn checkbox-inp"
-                                                   value="Да, есть" name="qw5">
+                                                   value="Да" name="qw5">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Да, есть
+Да
 </span>
                                         </label>
                                         <label for="qw5-2" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw5-2" class="radio-btn checkbox-inp"
-                                                   value="Нет, и не будет" name="qw5">
+                                                   value="Нет" name="qw5">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Нет, и не будет
+Нет
 </span>
                                         </label>
                                         <label for="qw5-3" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw5-3" class="radio-btn checkbox-inp"
-                                                   value="Планирую заказать" name="qw5">
+                                                   value="lorem" name="qw5">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Планирую заказать
+lorem
 </span>
                                         </label>
                                     </div>
@@ -467,7 +466,7 @@
                                 </div>
                                 <div class="title-margin-sm">
                                     <h3 class="descr-test">
-                                        Как скоро Вам необходимо приступить к ремонту?
+                                        Lorem ipsum dolor sit amet, consectetur.
                                     </h3>
                                 </div>
                                 <div class="test-slider-qw-1 test-slider-qw-5">
@@ -477,32 +476,32 @@
                                     <div class="test-slider-qw-6-list">
                                         <label for="qw6-1" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw6-1" class="radio-btn checkbox-inp"
-                                                   value="Посчитать отдельно материалы и работу" name="qw6">
+                                                   value="lorem3" name="qw6">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-В течение недели
+lorem3
 </span>
                                         </label>
                                         <label for="qw6-2" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw6-2" class="radio-btn checkbox-inp"
-                                                   value="Без материалов, купите их самостоятельно" name="qw6">
+                                                   value="lorem4" name="qw6">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-В течение месяца
+lorem4
 </span>
                                         </label>
                                         <label for="qw6-3" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw6-3" class="radio-btn checkbox-inp"
-                                                   value="Посчитать полностью под ключ" name="qw6">
+                                                   value="lorem5" name="qw6">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Все зависит от цены
+lorem5
 </span>
                                         </label>
                                     </div>
@@ -515,7 +514,7 @@
                                 </div>
                                 <div class="title-margin-sm">
                                     <h3 class="descr-test">
-                                        Какой бы Вам хотелось получить подарок после ремонта?
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing.
                                     </h3>
                                 </div>
                                 <div class="test-slider-qw-1 test-slider-qw-7">
@@ -525,15 +524,15 @@
 <img src="img/img_01.jpg" alt="" class="qw-7-img">
 </span>
                                         <span class="checkbox-wrap test-question__checkbox test-question__checkbox-7">
-<input type="radio" id="qw7-1" class="radio-btn checkbox-inp" value="Набор для ухода за домом" name="qw7">
+<input type="radio" id="qw7-1" class="radio-btn checkbox-inp" value="value" name="qw7">
 <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
 <span>
-Набор для ухода за домом
+Lorem ipsum dolor sit amet.
 <span class="descr-s">
-Стоимость в магазине: 2687 грн
+Lorem ipsum dolor sit amet, consectetur.
 </span>
 </span>
 </span>
@@ -545,15 +544,15 @@
 <img src="img/img_01.jpg" alt="" class="qw-7-img">
 </span>
                                         <span class="checkbox-wrap test-question__checkbox test-question__checkbox-7">
-<input type="radio" id="qw7-2" class="radio-btn checkbox-inp" value="Сертификат на ужин в ресторане" name="qw7">
+<input type="radio" id="qw7-2" class="radio-btn checkbox-inp" value="lorem1" name="qw7">
 <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
 <span>
-Сертификат на ужин в ресторане
+Lorem ipsum.
 <span class="descr-s">
-Сертификат на сумму 1000 грн
+Lorem ipsum dolor sit.
 </span>
 </span>
 </span>
@@ -565,15 +564,15 @@
 <img src="img/img_01.jpg" alt="" class="qw-7-img">
 </span>
                                         <span class="checkbox-wrap test-question__checkbox test-question__checkbox-7">
-<input type="radio" id="qw7-3" class="radio-btn checkbox-inp" value="Сертификат на семейную фотосессию" name="qw7">
+<input type="radio" id="qw7-3" class="radio-btn checkbox-inp" value="lorem3" name="qw7">
 <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
 <span>
-Сертификат на семейную фотосессию
+Lorem ipsum dolor.
 <span class="descr-s">
-Сертификат на сумму 1300 грн
+Lorem ipsum dolor sit.
 </span>
 </span>
 </span>
@@ -582,12 +581,12 @@
                                     <div class="big-label">
                                         <label for="qw7-4" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw7-4" class="radio-btn checkbox-inp"
-                                                   value="Меня интересует лишь стоимость, не люблю ХАЛЯВУ" name="qw7">
+                                                   value="lorem5" name="qw7">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Меня интересует лишь стоимость, не люблю ХАЛЯВУ
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 </span>
                                         </label>
                                     </div>
@@ -596,43 +595,43 @@
                             <!-- 8 -->
                             <div class="test-slider__item final" style="display: none;">
                                 <div class="t-desc">
-                                    Мы уже приступили к расчету
+                                    Lorem ipsum dolor sit amet.
                                 </div>
                                 <div class="title-margin-sm">
                                     <h3 class="descr-test">
-                                        Как Вам удобнее получить результат и бонусы?
+                                        Lorem ipsum dolor sit amet.
                                     </h3>
                                 </div>
                                 <div class="test-slider-qw-1 test-slider-qw-8">
                                     <div class="test-form-block">
                                         <label for="qw8-1" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw8-1" class="radio-btn checkbox-inp"
-                                                   value="Вышлите мне СМС со стоимостью" name="qw8" checked="">
+                                                   value="Lorem ipsum dolor sit amet, consectetur." name="qw8" checked="">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Вышлите мне СМС со стоимостью
+Lorem ipsum dolor sit amet, consectetur.
 </span>
                                         </label>
                                         <label for="qw8-2" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw8-2" class="radio-btn checkbox-inp"
-                                                   value="Перезвоните мне, у меня остались вопросы" name="qw8">
+                                                   value="Lorem ipsum dolor sit amet" name="qw8">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Перезвоните мне, у меня остались вопросы
+Lorem ipsum dolor sit amet, consectetur.Lorem ipsum dolor sit amet, consectetur.
 </span>
                                         </label>
                                         <label for="qw8-3" class="checkbox-wrap test-question__checkbox qw5-item">
                                             <input type="radio" id="qw8-3" class="radio-btn checkbox-inp"
-                                                   value="Пришлите мне все в Viber " name="qw8">
+                                                   value="Lorem ipsum dolor sit " name="qw8">
                                             <span class="radio-label">
 <span class="radio-psevdo">
 <span class="radio-psevdo-active"></span>
 </span>
-Пришлите мне все в Viber
+Lorem ipsum dolor sit.
 </span>
                                         </label>
                                         <div class="test-form-block-f">
@@ -641,12 +640,12 @@
                                             <div class="btn-wrap">
                                                 <button class="btn tbn btn-center">
 <span class="btn-text">
-ПОЛУЧИТЬ РЕЗУЛЬТАТ
+RESULT
 </span>
-                                                    <span class="btn-text-sm">+ БОНУСЫ	</span>
+                                                    <span class="btn-text-sm">+ SUM	</span>
                                                 </button>
-                                                <img src="img/img_01.jpg" alt=""
-                                                     class="btn-img-f">
+<!--                                                <img src="img/img_01.jpg" alt=""-->
+<!--                                                     class="btn-img-f">-->
                                             </div>
                                         </div>
                                     </div>
@@ -660,7 +659,7 @@
                                 <div class="qw9-items">
                                     <div class="qw9-items-form">
                                         <div class="t-desc">
-                                            Результат отправим в течение часа!
+                                            Lorem ipsum dolor sit amet.
                                         </div>
                                         <div class="title-margin-sm">
                                             <h3 class="descr-test descr-test-9">
@@ -671,22 +670,18 @@
                                         </div>
                                         <ul class="final-list">
                                             <li><img src="img/img_01.jpg" alt="">
-                                                Осмотрит объект, и произведёт необходимые замеры
+                                                Lorem ipsum dolor sit amet.
                                             </li>
                                             <li><img src="img/img_01.jpg" alt="">Замер
-                                                Вас ни к чему не принуждает
+                                                Lorem ipsum dolor sit amet.
                                             </li>
-                                            <li><img src="img/img_01.jpg" alt="">Учтёт
-                                                все ваши пожелания по ремонту
+                                            <li><img src="img/img_01.jpg" alt="">Lorem ipsum dolor sit amet.
                                             </li>
-                                            <li><img src="img/img_01.jpg" alt="">Составит
-                                                предварительный расчет по каждому виду работ
+                                            <li><img src="img/img_01.jpg" alt="">Lorem ipsum dolor sit amet.
                                             </li>
-                                            <li><img src="img/img_01.jpg" alt="">Проконсультирует
-                                                по всем оставшимся вопросам
+                                            <li><img src="img/img_01.jpg" alt="">Lorem ipsum dolor sit amet.
                                             </li>
-                                            <li><img src="img/img_01.jpg" alt="">Покажет
-                                                Вам наши действующие объекты в процессе ремонта
+                                            <li><img src="img/img_01.jpg" alt="">Lorem ipsum dolor sit amet.
                                             </li>
                                         </ul>
                                         <div class="final-desr">
@@ -694,16 +689,16 @@
 </span></div>
                                         <div class="final-forms">
                                             <input type="text" name="name" class="input inp-final"
-                                                   placeholder="Как вас зовут">
+                                                   placeholder="name">
                                             <input type="text" name="adres" class="input inp-final"
-                                                   placeholder="Ваш адрес">
+                                                   placeholder="adress">
                                             <input type="text" name="date" class="input inp-final"
-                                                   placeholder="Желаемая дата и время">
+                                                   placeholder="text">
                                             <button class="btn tbn btn-center inp-final">
 <span class="btn-text">
-Перезвонить вам
+Lorem ipsum dolor sit amet.
 </span>
-                                                <span class="btn-text-sm">и вызвать замерщика</span>
+                                                <span class="btn-text-sm">send</span>
                                             </button>
                                         </div>
                                     </div>
@@ -715,44 +710,10 @@
                         </div>
                         <div class="btn--wrap test__btn-block">
                             <button class="btn btn-test next-test" disabled="true">
-                                <span class="btn-text">	Далее <span class="z-a">›</span></span>
+                                <span class="btn-text">	next <span class="z-a">›</span></span>
                             </button>
                         </div>
                     </form>
-                </div>
-                <div class="test__block">
-                    <div class="test__block__text">
-                        <div class="test__block__title">
-                            ВАШИ БОНУСЫ В КОНЦЕ ТЕСТА:
-                        </div>
-                        <div class="test__block__item test__block__item-1">
-                            <div class="test__block__img test__block__img-1">
-
-                            </div>
-                            <div class="test__block__desc">
-                                Сметный расчет и подборка наших работ
-                            </div>
-                        </div>
-                        <div class="test__block__item test__block__item-2">
-                            <div class="test__block__desc">
-                                1 из 3 подарков <br>
-                                на выбор
-                            </div>
-                            <div class="test__block__img test__block__img-2">
-
-                            </div>
-                        </div>
-                        <div class="test__block__item test__block__item-3" style="display: none;">
-                            <div class="test__block__img test__block__img-3">
-
-                            </div>
-
-                            <div class="test__block__desc" id="gift-t">
-                                Сертификат на ужин
-                                в ресторане
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>

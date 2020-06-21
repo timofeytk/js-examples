@@ -1047,7 +1047,7 @@ input:disabled {
   padding-bottom: 7vw; }
 
 .test-slider__wrap {
-  width: 72%;
+  width: 100%;
   min-height: 28vw; }
 
 .test-slider__wrap.final {
@@ -1561,7 +1561,7 @@ input:disabled {
   cursor: pointer; }
 
 .label-qw1-img {
-  border-radius: 20px;
+  border-radius: 0;
   border: 1px solid #999;
   background-color: #fff;
   height: 11vw;
@@ -1570,7 +1570,7 @@ input:disabled {
   -o-transition: all .4s;
   transition: all .4s;
   position: relative;
-  margin-bottom: 1vw; }
+  margin-bottom: 3vw; }
 
 .label-qw1-img:before {
   content: '';
@@ -1814,11 +1814,6 @@ input:disabled {
   width: 45%;
   position: relative; }
 
-.test-slider-qw-5-img img {
-  -webkit-transform: scale(1.2) translate(1vw, 2vw);
-  -ms-transform: scale(1.2) translate(1vw, 2vw);
-  transform: scale(1.2) translate(1vw, 2vw); }
-
 .test-slider-qw-5 {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
@@ -1838,11 +1833,6 @@ input:disabled {
   width: 35%;
   position: relative; }
 
-.test-slider-qw-6-img img {
-  -webkit-transform: scale(1.2) translate(7vw, 2vw);
-  -ms-transform: scale(1.2) translate(7vw, 2vw);
-  transform: scale(1.2) translate(7vw, 2vw); }
-
 .test-slider-qw-6-list {
   width: 53%; }
 
@@ -1857,7 +1847,7 @@ input:disabled {
 
 .qw-7-img {
   position: absolute;
-  width: 65%;
+  width: 100%;
   left: 57%;
   top: 0;
   -webkit-transform: scale(1.1) translateX(-50%);
@@ -1871,9 +1861,6 @@ input:disabled {
 
 .test-question__checkbox-7 .radio-label {
   font-size: 0.75vw; }
-
-.label-qw7-img-3 img {
-  top: -1vw; }
 
 .lqw-7:hover .label-qw1-img {
   background-color: #ffd800;
